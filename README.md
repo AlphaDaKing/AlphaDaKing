@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/saiteja-madha">
-    <img src="[https://readme-typing-svg.herokuapp.com/?font=Antonio&size=30&duration=3000&pause=2000&center=true&width=520&lines=Welcome+to...;Phantomio's+Profile!;I+am+a...;Roblox%20Developer,;Javascript%20Enjoyer,;Discord%20Bot%20Creator!](https://readme-typing-svg.herokuapp.com?font=Antonio&size=30&pause=1000&color=03F700&background=000000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to...;Phantomio's+Profile!;I+am+a...;Coder;Modeler+(Kind+of);Average+Orange+Juice+Enjoyer+%3AD)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Antonio&size=30&pause=1000&color=03F700&background=000000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to...;Phantomio's+Profile!;I+am+a...;Coder;Modeler+(Kind+of);Average+Orange+Juice+Enjoyer+%3AD">
   </a>
 </p>
 
